@@ -63,6 +63,13 @@ body {
     background-color: #20db92;
 }
 
+.container-2-image-cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: lightslategrey;
+}
+
 /* Not sure whether to use this code or to code the image sizes in the HTML*/
 .card {
     width: 256px;
